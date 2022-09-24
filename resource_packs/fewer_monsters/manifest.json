@@ -4,15 +4,15 @@
         "description": "Resource pack for running Minecraft Bedrock Server with fewer monsters",
         "name": "Fewer Monsters",
         "uuid": "8731944b-7c6f-404b-95b0-f312c0092988",
-        "version": [0, 2, 0],
-        "min_engine_version": [1, 13, 0]
+        "version": [ 0, 2, 0 ],
+        "min_engine_version": [ 1, 13, 0 ]
     },
     "modules": [
         {
             "description": "Resource pack for running Minecraft Bedrock Server with fewer monsters",
             "type": "resources",
             "uuid": "958a71fd-06ae-4036-9366-542210b90fb1",
-            "version": [0, 2, 0]
+            "version": [ 0, 2, 0 ]
         }
     ]
 }
