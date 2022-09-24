@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Behavior pack for running Minecraft Bedrock Server with fewer monsters",
+        "name": "Fewer Monsters",
+        "uuid": "a4a28619-f90c-43b9-9fcb-d5306f54a427",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 13, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Behavior pack for running Minecraft Bedrock Server with fewer monsters",
+            "type": "data",
+            "uuid": "c1eecfca-0521-4b78-a9d1-bf5eb907189c",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+      {
+        "uuid": "8731944b-7c6f-404b-95b0-f312c0092988",
+        "version": [0, 0, 1]
+      }
+    ]
+}
