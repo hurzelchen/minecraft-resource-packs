@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Removes Creepers from the game completely.",
+        "name": "Remove Creepers",
+        "uuid": "b819bd63-b1cb-4291-bfb0-6a623002037f",
+        "version": [ 0, 1, 0 ],
+        "min_engine_version": [ 1, 13, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Removes Creepers from the game completely.",
+            "type": "data",
+            "uuid": "dbd58e18-fe5b-45c0-afc8-1dac57337627",
+            "version": [ 0, 1, 0 ]
+        }
+    ],
+    "dependencies": [
+      {
+        "uuid": "8731944b-7c6f-404b-95b0-f312c0092988",
+        "version": [ 0, 4, 0 ]
+      }
+    ]
+}
